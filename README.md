@@ -1,4 +1,4 @@
-<h2 align="centre">Music Play Bot 🎵</h2>
+<h2 align="centre"> Eunha Music Telegram bot 🎵</h2>
 
 <p align="center">
   <img src="https://telegra.ph/file/8a9013ef2dfb93a051b4a.jpg">
@@ -26,11 +26,11 @@
 
 ### Deploy To Heroku</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vincreator/eunhamusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vincreator/EunhaMusicBot)
 
 Use [@StringSessionGeneratorRobot](https://t.me/StringSessionGeneratorRobot) to get pyrogram string session
 
-### Latest Repo [Here](https://github.com/vincreator/eunhamusic)
+### Latest Repo [Here](https://github.com/vincreator/EunhaMusicBot)
 
 ### Credits
 
