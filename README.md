@@ -1,4 +1,4 @@
-<h2 align="centre"> Eunha Music Telegram bot 🎵</h2>
+<h2 align="centre"> Eunha Music bot 🎵</h2>
 
 <p align="center">
   <img src="https://telegra.ph/file/8a9013ef2dfb93a051b4a.jpg">
