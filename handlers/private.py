@@ -7,11 +7,11 @@ from helpers.filters import other_filters2
 
 @Client.on_message(other_filters2)
 async def start(_, message: Message):
-    await message.reply_sticker("CAACAgUAAx0CRXGZ2AACAQRgeSaH5kaX_BeOtmSJDNe5ov1eTAACpQADPjM0M7Zwa5Abkh7CHgQ")
+    await message.reply_photo=("AgACAgUAAx0CWRNgYwACFBZgf_NxCq4Cu3wYKootFvt3WELZpQACqqwxG_-7AVTMjNQsSaY1VN1JenN0AAMBAAMCAAN5AAOt7wACHgQ")
     await message.reply_text(
         f"""**Hey, I'm {bn} 🎵
 
-I can play music in your group's voice call. Developed by [OVIN](https://t.me/oViNc).
+I can play music in your group's voice call. Developed by [𝐃𝐇𝐀𝐑𝐌𝐀](https://t.me/Devilsangry) Source by [oViNc](https://t.me/oViNc)
 
 Add me to your group and play music freely!**
         """,
@@ -19,20 +19,20 @@ Add me to your group and play music freely!**
             [
                 [
                     InlineKeyboardButton(
-                        "📩 Contact Me 📩", url="https://t.me/oViNc")
+                        "📩 Contact Me 📩", url="https://t.me/Devilsangry")
                 ],[
                     InlineKeyboardButton(
-                        "🌀 Powered", url="https://t.me/MultiAkunProduct"
+                        "🌀 Powered", url="https://t.me/oViNc"
                     ),     
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/NollepAlliance"
+                        "💬 Group", url="https://t.me/dontfuckingshit"
                     ),
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/Namexian"
+                        "🔊 Channel", url="https://t.me/dontfuckingshit"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "➕ Add To Your Group ➕", url="https://t.me/OurMusicplaybot?startgroup=true"
+                        "➕ Add To Your Group ➕", url="https://t.me/Musicaldhbot?startgroup=true"
                     )]
             ]
         ),
@@ -46,7 +46,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/Namexian")
+                        "🔊 Channel", url="https://t.me/dontfuckingshit")
                 ]
             ]
         )
