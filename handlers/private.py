@@ -19,20 +19,20 @@ Add me to your group and play music freely!**
             [
                 [
                     InlineKeyboardButton(
-                        "📩 Contact Me 📩", url="https://t.me/Devilsangry")
+                        "📩 Contact Me 📩", url="https://t.me/ourmusicbots")
                 ],[
                     InlineKeyboardButton(
                         "🌀 Powered", url="https://t.me/oViNc"
                     ),     
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/dontfuckingshit"
+                        "💬 Group", url="https://t.me/testingsongs"
                     ),
                     InlineKeyboardButton(
                         "🔊 Channel", url="https://t.me/dontfuckingshit"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "➕ Add To Your Group ➕", url="https://t.me/Musicaldhbot?startgroup=true"
+                        "➕ Add To Your Group ➕", url="https://t.me/transsongbot?startgroup=true"
                     )]
             ]
         ),
